@@ -1,0 +1,55 @@
+body{
+    background-image: url(https://media.discordapp.net/attachments/471320682718953482/774420390759759893/PicsArt_11-07-12.49.46.jpg?width=845&height=475);
+    background-size: contain;   
+    background-attachment: fixed
+}
+
+div.content{
+    text-align: center;
+    position: relative;
+    bottom: -100px; 
+    background-color: rgb(140, 116, 94, 0.6);
+    padding: 20px;
+    margin-right: 450px;
+    margin-left: 450px      
+}
+
+form{
+    background: rgba(140, 116, 94, 0.7);
+    padding: 15px
+}
+
+form div.row{
+    width: 50%;
+    margin: auto
+}
+
+form label{
+    width: 30%;
+    text-align: end;
+    display: block;
+    float: left;
+    margin-right: 20px;
+    position: relative;
+    left: 10%
+}
+
+form input, form select, form textarea{
+padding: 5px;
+    border-radius: 5px;
+    width: 200px    
+}
+
+form input[type="checkbox"]{
+    position:relative;
+    width: auto
+}
+
+form input[type="submit"]{
+    width: 100px;
+    background: rgb (163, 196, 157,);    
+    border: none;
+    color:darkgreen;
+    cursor: pointer;
+   
+}

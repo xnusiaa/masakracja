@@ -1,0 +1,23 @@
+body{
+background-image: url(https://media.discordapp.net/attachments/471320682718953482/774420390759759893/PicsArt_11-07-12.49.46.jpg?width=845&height=475);
+background-size: contain;   
+background-attachment: fixed
+}
+
+div.container{
+    width: 1000px;
+    margin:auto
+}
+
+aside{
+    background-color: rgb(140, 116, 94, 0.6);
+    text-align: center;
+    padding: 15px
+        
+}
+
+article{
+     background-color: rgb(140, 116, 94, 0.6);
+     padding: 10px
+}
+
